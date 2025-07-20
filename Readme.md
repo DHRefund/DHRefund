@@ -59,25 +59,6 @@ Tools & Others
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" />
-  </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" />
-  </a>
-</div>
-🏆 Notable Projects
-
-| Project                        | Description                                                         | Tech Stack                          | Links                  |
-| ------------------------------ | ------------------------------------------------------------------- | ----------------------------------- | ---------------------- |
-| **E-Commerce Mobile App**      | Full-featured shopping app with cart, payments, and user management | React Native, Node.js, MongoDB      | [Demo](#) \| [Code](#) |
-| **Real-time Chat Application** | Cross-platform messaging app with file sharing and notifications    | React Native, Socket.io, Express.js | [Demo](#) \| [Code](#) |
-| **Task Management Dashboard**  | Responsive web app for project and team management                  | React, TypeScript, PostgreSQL       | [Demo](#) \| [Code](#) |
-| **Social Media API**           | RESTful API with authentication, posts, and real-time features      | Node.js, GraphQL, Redis             | [Docs](#) \| [Code](#) |
-
 <div align="center">
   <h3>💻 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
   <p>Thanks for visiting! ⭐️ Star some repos if you find them interesting!</p>
