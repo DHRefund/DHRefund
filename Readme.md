@@ -1,4 +1,4 @@
-👋 Hi there, I'm [Henrry]!
+👋 Hi there, I'm Henrry!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+Native+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
@@ -9,12 +9,6 @@
 </p>
 🚀 About Me
 I'm a passionate Full Stack Developer with expertise in building web applications and mobile apps using React Native. I love creating seamless user experiences and robust backend systems.
-
-🔭 I'm currently working on [Current Project Name]
-🌱 I'm currently learning [New Technology/Framework]
-👯 I'm looking to collaborate on open source projects
-💬 Ask me about React, Node.js, React Native, or anything tech
-⚡ Fun fact: I debug with console.log and I'm not ashamed
 
 🛠️ Tech Stack
 Frontend
@@ -64,19 +58,9 @@ Tools & Others
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-📱 Mobile Development Expertise
-javascriptconst mobileSkills = {
-  frameworks: ['React Native', 'Expo'],
-  platforms: ['iOS', 'Android'],
-  navigation: ['React Navigation', 'React Native Navigation'],
-  stateManagement: ['Redux Toolkit', 'Zustand', 'Context API'],
-  storage: ['AsyncStorage', 'SQLite', 'Realm'],
-  networking: ['Axios', 'Fetch API', 'WebSocket'],
-  ui: ['Native Base', 'UI Kitten', 'React Native Elements'],
-  deployment: ['App Store Connect', 'Google Play Console', 'EAS Build'],
-  testing: ['Jest', 'Detox', 'React Native Testing Library']
-};
+
 🌟 Featured Projects
+
 <div align="center">
   <a href="https://github.com/yourusername/project1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" />
@@ -86,60 +70,14 @@ javascriptconst mobileSkills = {
   </a>
 </div>
 🏆 Notable Projects
-ProjectDescriptionTech StackLinksE-Commerce Mobile AppFull-featured shopping app with cart, payments, and user managementReact Native, Node.js, MongoDBDemo | CodeReal-time Chat ApplicationCross-platform messaging app with file sharing and notificationsReact Native, Socket.io, Express.jsDemo | CodeTask Management DashboardResponsive web app for project and team managementReact, TypeScript, PostgreSQLDemo | CodeSocial Media APIRESTful API with authentication, posts, and real-time featuresNode.js, GraphQL, RedisDocs | Code
-📊 GitHub Analytics
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" />
-</div>
-🏅 GitHub Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" />
-</div>
-📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=1F222E&hide_border=true&line=F85D7F&point=F8D866" />
-</div>
-🎯 What I'm Working On
 
-🔥 Building a cross-platform fitness tracking app with React Native
-🚀 Contributing to open-source React Native libraries
-📚 Writing technical blog posts about mobile development
-🎓 Mentoring junior developers in full-stack development
+| Project                        | Description                                                         | Tech Stack                          | Links                  |
+| ------------------------------ | ------------------------------------------------------------------- | ----------------------------------- | ---------------------- |
+| **E-Commerce Mobile App**      | Full-featured shopping app with cart, payments, and user management | React Native, Node.js, MongoDB      | [Demo](#) \| [Code](#) |
+| **Real-time Chat Application** | Cross-platform messaging app with file sharing and notifications    | React Native, Socket.io, Express.js | [Demo](#) \| [Code](#) |
+| **Task Management Dashboard**  | Responsive web app for project and team management                  | React, TypeScript, PostgreSQL       | [Demo](#) \| [Code](#) |
+| **Social Media API**           | RESTful API with authentication, posts, and real-time features      | Node.js, GraphQL, Redis             | [Docs](#) \| [Code](#) |
 
-💡 Fun Code Snippet
-javascriptconst developer = {
-name: "Your Name",
-location: "Your City",
-skills: ["React", "React Native", "Node.js", "TypeScript"],
-currentFocus: "Building awesome mobile experiences",
-funFact: "I can center a div in CSS... sometimes 😄",
-
-sayHi: function() {
-console.log("Thanks for visiting my profile! Let's build something amazing together 🚀");
-}
-};
-
-developer.sayHi();
-📫 Let's Connect!
-
-<p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-</p>
 <div align="center">
   <h3>💻 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
   <p>Thanks for visiting! ⭐️ Star some repos if you find them interesting!</p>
